@@ -1,12 +1,12 @@
 
 # SEMANTIC GPT CACHE
 
-<<<<<<< HEAD
+HEAD
 A smart and memory-efficient system that reduces repeated LLM calls using semantic similarity — saving both time and API cost.
 =======
 Smart caching system for LLMs using semantic similarity.
 Saves time and API calls by avoiding cached prompts through vector-based matching using cosine similarity.
->>>>>>> 0fcb1c7955fd7c347a119db7f71cfb5f56578c13
+
 
 ---
 
