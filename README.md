@@ -2,7 +2,7 @@
 SEMANTIC GPT CACHE:
 
 Smart caching system for LLMs using semantic similarity.
-Saves time and API calls by avoiding repeated prompts through intelligent vector-based matching.
+Saves time and API calls by avoiding cached prompts through vector-based matching using cosine similarity.
 
 Objective:
 
