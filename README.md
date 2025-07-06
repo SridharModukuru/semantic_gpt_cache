@@ -70,9 +70,6 @@ You’ll be asking questions directly in the terminal. Type `exit` to quit.
 
 ---
 
-## 🐳 Docker Support
-
-_Coming soon..._
 
 ---
 
