@@ -1,0 +1,5 @@
+redis
+json
+dotenv
+langchain_google_genai
+groq
